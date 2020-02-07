@@ -2,12 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xts-zxj.github.io/</id>
     <title>小天师日记</title>
-    <updated>2020-02-07T12:36:42.331Z</updated>
+    <updated>2020-02-07T12:37:54.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xts-zxj.github.io/"/>
     <link rel="self" href="https://xts-zxj.github.io//atom.xml"/>
-    <subtitle>小天师的生存手册
-&lt;meta name=&quot;baidu-site-verification&quot; content=&quot;3FzRYzwxWa&quot; /&gt;</subtitle>
+    <subtitle>小天师的生存手册</subtitle>
     <logo>https://xts-zxj.github.io//images/avatar.png</logo>
     <icon>https://xts-zxj.github.io//favicon.ico</icon>
     <rights>All rights reserved 2020, 小天师日记</rights>
